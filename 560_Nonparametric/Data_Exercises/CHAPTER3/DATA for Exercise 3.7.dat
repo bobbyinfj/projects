@@ -1,0 +1,22 @@
+A  farming	B  farming	C  farming
+A  hunting	B  gathering	C  gathering
+A  farming	B  gathering	C  gathering
+A  gathering	B  fishing	C  trading
+A  gathering	B  farming	C  farming
+A  farming	B  fishing	C  fishing
+A  trading	B  trading	C  farming
+A  farming	B  hunting	C  gathering
+A  farming	B  farming	C  fishing
+A  farming	B  farming	C  fishing
+A  farming	B  farming	C  gathering
+A  gathering	B  farming	C  fishing
+A  fishing	B  gathering	C  farming
+A  farming	B  fishing	C  farming
+A  fishing	B  trading	C  farming
+A  farming	B  trading	C  fishing
+A  hunting	B  fishing	C  gathering
+A  gathering	B  fishing	C  trading
+A  hunting	B  hunting	C  trading
+A  trading	B  fishing	C  farming
+
+
