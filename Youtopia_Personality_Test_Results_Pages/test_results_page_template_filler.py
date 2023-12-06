@@ -50,7 +50,7 @@ with open("Youtopia_Personality_Test_Results_Pages/test_results_rendered.txt", "
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="{deviant_role_image}" target="_blank" rel="noopener noreferrer"><img src="{deviant_role_img_src}" alt=""></a>
+<a href="{deviant_role_img_href}" target="_blank" rel="noopener noreferrer"><img src="{deviant_role_img_src}" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
@@ -63,7 +63,7 @@ with open("Youtopia_Personality_Test_Results_Pages/test_results_rendered.txt", "
         background_color = row['background_color'],
         animal_image_src = row['animal_image_src'],
         short_description = row['short_description'],
-        deviant_role_image = row['deviant_role_image'],
+        deviant_role_img_href = row['deviant_role_img_href'],
         deviant_role_img_src = row['deviant_role_img_src'],
         tribe_value = row['tribe_value']
     )

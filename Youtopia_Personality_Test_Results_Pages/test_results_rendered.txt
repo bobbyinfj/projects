@@ -48,15 +48,15 @@ Soft-spoken, kind, and loyal to the very end, you have all of the qualities of a
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #6d391d; ">
 <h2>You are a Stag (ESTJ)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Stag-1140x760.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+Respectful and hard-working, you thrive in hierarchical systems with clear chains of command. Although you are more than capable of taking orders, it is when you are in a position of authority that you really thrive. Large and in charge, you specialize in bringing people together to work towards a common objective. Your organizational leadership abilities are second to none, and there are very few practical responsibilities that you cannot handle.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -91,22 +91,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/De-Individualizers_The-Fascist-1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/De-Individualizers_The-Fascist-1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #6d391d; ">
 <h2>You are a Beaver (ISTJ)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Beaver.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+The natural handyman of the types, you are great at fixing and maintaining any manner of objects and systems. Cautious and measured, you don’t like to take unnecessary risks. In fact, you don’t like to take any risks at all. For you, caution is the better part of valor. Through diligent work and careful accounting, you’re an important part of any organization you commit to. And commit you do: 100%!
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -141,22 +141,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/De-Individualizers_The-Hall-Monitor-1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/De-Individualizers_The-Hall-Monitor-1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #6d391d; ">
 <h2>You are an Elephant (ESFJ)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Elephant.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+You are the friendliest of all the types. You have a natural optimism towards all aspects of life: the people, the places, and society in general. It is almost impossible for someone to be lonely around you, as you love the idea of bringing all individuals into the fold. Taking care of others is your forte and you do it with affectionate gusto. Most of all, you love that secure feeling you get when you’re having fun with your loved ones, and if you had one wish, it would be to share that feeling of contentment with everyone.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -191,22 +191,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/De-Individualizers_The-Earth-S-mother-er-1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/De-Individualizers_The-Earth-S-mother-er-1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #33a4f5; ">
 <h2>You are a Fox (ESTP)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Fox.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+You are a smooth operator that likes to make decisions on the fly. Improvisation is your bread and butter, and you do it in a way that seems effortless. You’re a hustler in the best sense of the word; you always have a deal you’re working on or a venture you’re pursuing, or perhaps two of each. You’re constantly on the lookout for new experiences to enjoy, as exploring the unknown makes you feel alive, and gives you a perfect excuse to ignore those stodgy rules.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -241,22 +241,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/Selfish_Thrill_Seekers_The-Con-Artist-1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/Selfish_Thrill_Seekers_The-Con-Artist-1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #2365c2; ">
 <h2>You are a Shark (ISTP)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Shark.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+The fiercest of all the types, you have an aggressive mentality and hypercompetitiveness that sometimes strikes fear into the hearts of the more passive types. Sometimes they just perceive you as a jerk. You are blunt and straightforward, and place a high value on skill. People are either good at things or they’re not, and you take great pride in your ability to master a specific craft, as you feel it is much more a product of your discipline and dedication than any raw talent.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -291,22 +291,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/Selfish_Thrill_Seekers_The-Contract-Killer-1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/Selfish_Thrill_Seekers_The-Contract-Killer-1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #f04000; ">
 <h2>You are a Peacock (ESFP)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Peacock-1140x758.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+The “look at me” type, not only do you crave the spotlight, but you flourish in it. You might not admit to your attention-seeking behavior, but with your loud, boisterous voice and exaggerated physical gestures, it’s really hard not to see you as a natural performer. You are warm, generous, and, as the most physical of all the types, the likeliest person in the room to express their affection with a humongous bear hug or, if the situation calls for it, a simple caress.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -341,22 +341,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/Selfish_Thrill_Seekers_The-Narcissist-1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/Selfish_Thrill_Seekers_The-Narcissist-1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #8c1456; ">
 <h2>You are a Butterfly (ISFP)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Butterfly.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+Gentle and artsy, you prefer to spend your days savoring life as it comes. Avoiding stress as much as possible, you resolve conflict by appeasing or ignoring the source. This gives you more time and emotional space to create your imaginative and beautiful artistic compositions. Out of all the types, you are the most in touch with your senses, enabling you to blend color, taste, sound, fragrance, and texture with astounding ease.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -391,22 +391,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/Selfish_Thrill_Seekers_The-Tortured-Artist-1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/Selfish_Thrill_Seekers_The-Tortured-Artist-1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #2365c2; ">
 <h2>You are a Dolphin (ENFJ)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Dolphin-1140x641.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+Community-minded and the most humble of leaders, you specialize in helping the individual members of a team understand their role, thus enabling them to reach their full potential. Your emotional vulnerability and willingness to express your feelings attracts people to you like a magnet, automatically earning their trust, which you use to broker peace, keep up morale, and ensure emotional harmony.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -441,22 +441,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/Do-Gooders_The-Cult-Leader-1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/Do-Gooders_The-Cult-Leader-1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #009685; ">
 <h2>You are a Panda (INFJ)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Giant-Panda-1140x855.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+You are the stereotypical underdog, the idealistic reformer plugging away in the trenches of a system in dire need of change. Your sensitivity and academic prowess are two traits that, though rarely receiving much popular acclaim, you use to great effect, counseling those previously thought to be inconsolable, and nudging slowly but surely towards progress a structure previously thought to be immovable.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -491,22 +491,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/Do-Gooders_The-Svengali-1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/Do-Gooders_The-Svengali-1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #009685; ">
 <h2>You are a Baboon (ENFP)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2020/09/Baboon_2.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+Confident and charismatic, with a genuine faith in your own abilities, you are an inspiration to all within range of your verbal virtuosity. You might be a bit flaky sometimes, and your idiosyncrasies can border on neuroticism, but with your visionary ideals and powerful convictions, there is no type that is better suited for bringing forth a revolution.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -541,22 +541,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/Do-Gooders_The-Bomb-Thrower-1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/Do-Gooders_The-Bomb-Thrower-1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #2365c2; ">
 <h2>You are a Humpback Whale (INFP)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Humpback-Whale1.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+Daydreamer extraordinaire, you are an old soul, floating peacefully, and sometimes aimlessly, in the waters of your own reflection. You are the most intuitive of all the types; and while society doesn’t always take kindly to your esoteric behavior, it is your intuition that helps you stay strong in those moments of persecution and doubt, exuding a quiet confidence that whispers to the rest of us, “I know something that you don’t”—and if everyone were to be truthful, they would admit the same.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -591,22 +591,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/Do-Gooders_The-Martyr-1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/Do-Gooders_The-Martyr-1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #2365c2; ">
 <h2>You are a Killer Whale (ENTJ)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Killer-Whale.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+You are a dominating presence wherever you go, demanding authority while disregarding the authority of others. You believe that knowledge is powerful, but not as powerful as the ability to put it to good use. You believe that individuals are important, but not as important as the individual talents they provide to the group. You strive for meaningful impact, and with your drive and determination, you are more than likely to achieve it.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -641,22 +641,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/HF_Sociopaths_The-Dominatrix-1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/HF_Sociopaths_The-Dominatrix-1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #0600a8; ">
 <h2>You are a Spider (INTJ)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Spider.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+The master of plans, you are, above all else, a theoretical realist. Your contingencies are based on acknowledged facts, catalogued data, and your own research and observations. You can be hard to get to know, as you are liable to put up plenty of defenses. Little do people know that there is a deep and caring person beneath that cold and complex scheming, and that wealth of caring is what usually drives your desire to solve the world’s problems, great and small.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -691,22 +691,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/HF_Sociopaths_The-Supervillian-1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/HF_Sociopaths_The-Supervillian-1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #8932ed; ">
 <h2>You are a Chimpanzee (ENTP)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Chimpanzee-1140x641.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+You are an extremely clever individual—sometimes, too clever for your own good. Reckless in experimentation and completely dismissive of social convention, you relish any opportunity to demonstrate to those “normal” people just how different you really are. Hobbies? You have plenty. Interests? You have many. Opinions? You voice those at a lightning quick pace, always wanting to get the last word. You’re easily distracted, but it’s astounding what inventive projects you’re capable of when you remain focused.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -741,22 +741,22 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/HF_Sociopaths_The-Mad-Scientist1200.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/HF_Sociopaths_The-Mad-Scientist1200.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
 </div>
  	<link rel="stylesheet" href="/test-results.css">
     
-<div class="top-row" style="background-color: nan; ">
+<div class="top-row" style="background-color: #33a4f5; ">
 <h2>You are an Owl (INTP)!</h2>
 [mks_col]
 [mks_one_third]
-<img src="nan">
+<img src="/wp-content/uploads/2015/08/Owl.jpg">
 [/mks_one_third]
 [mks_two_thirds]
 
-nan
+Quiet and pensive, you are the person who stands in the corner of the room taking mental notes about everything that is going on. You avoid the center of the room like the plague; the constant action disturbs the beautiful confluence of theories swirling about in your mind. It’s not that you don’t like people. You just find some of them to be crude and stupid; and who wants to hang out with stupid all day long? Abstract ideas are far more interesting and, when fully understood, far more rewarding.
 <div><a class="bob" href="https://www.projectyoutopia.com/the-power-of-personality">Learn more</a></div>
 [/mks_two_thirds]
 [/mks_col]
@@ -791,7 +791,7 @@ nan
 <h5>Your Deviant Role</h5>
 <div>Take the purest ideal of your type, and twist it until it’s nothing more than a gnarled monstrosity of human pathos. That is your <strong>Deviant Role</strong>.</div>
 <div><a href="https://youtopiaproject.com/what-is-a-deviant-role">Learn more about Deviant Roles</a></div>
-<a href="nan" target="_blank" rel="noopener noreferrer"><img src="nan" alt=""></a>
+<a href="/wp-content/uploads/2020/10/HF_Sociopaths_The-40-Year-Old-Virgin-1200x700-1.jpg" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2020/10/HF_Sociopaths_The-40-Year-Old-Virgin-1200x700-1.jpg" alt=""></a>
 [/mks_two_thirds]
 [/mks_col]
 
