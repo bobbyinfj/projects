@@ -1,0 +1,17 @@
+tribe,mbti,tribe_indefinite_article,background_color,animal_image_src,short_description,deviant_role_image,deviant_role_img_src,tribe_value
+Bear,ISFJ,a,#6d391d,/wp-content/uploads/2015/08/Bear-1140x614.jpg,"Soft-spoken, kind, and loyal to the very end, you have all of the qualities of a protector. You dread the thought of being in the spotlight; it’s a good thing for you that your genuine humility keeps you conveniently behind the scenes. Sometimes you might defer to your loved ones too often, but when it comes to ensuring their safety, your vigilance is unparalleled.",/wp-content/uploads/2020/10/De-Individualizers_The-Mob-Enforcer-1200.jpg,/wp-content/uploads/2020/10/De-Individualizers_The-Mob-Enforcer-1200.jpg,8
+Stag,ESTJ,a,,,,,,1
+Beaver,ISTJ,a,,,,,,2
+Elephant,ESFJ,an,,,,,,4
+Fox,ESTP,a,,,,,,16
+Shark,ISTP,a,,,,,,32
+Peacock,ESFP,a,,,,,,64
+Butterfly,ISFP,a,,,,,,128
+Dolphin,ENFJ,a,,,,,,256
+Panda,INFJ,a,,,,,,512
+Baboon,ENFP,a,,,,,,1024
+Humpback Whale,INFP,a,,,,,,2048
+Killer Whale,ENTJ,a,,,,,,4096
+Spider,INTJ,a,,,,,,8192
+Chimpanzee,ENTP,a,,,,,,16384
+Owl,INTP,an,,,,,,32768
